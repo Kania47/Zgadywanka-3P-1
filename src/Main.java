@@ -5,8 +5,16 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("Witamy na lekcjach programowania");
-    }
+        double wylosowanaLiczba = Math.random()*10+1;
+
+        System.out.println(wylosowanaLiczba);
+
+
+        }
 
 }
 
 
+//typ prosty - TYLKO WARTOŚĆ, PISZEMY MAŁĄ LITERĄ
+// BOOLEAN, BYTE SHORT INT LONG FLOAT DOUBLE CHAR
+//typ złożony - OBIEKT KTÓRY ZAWIERA WŁASNOŚCI I METODY, PISZEMY Z DUŻEJ LITERY.
