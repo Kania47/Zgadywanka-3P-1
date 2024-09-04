@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("Witamy na lekcjach programowania");
-        double wylosowanaLiczba = Math.random()*10+1;
+        int wylosowanaLiczba = (int) (Math.random()*10+1);
 
         System.out.println(wylosowanaLiczba);
 
